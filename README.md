@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there! I'm Hubert
 
-<!--
-**hubiliczbik/hubiliczbik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year **Computer Science student at PJATK**  
+💻 Learning **Java** and **Python** – building my programming foundations  
+🤖 Interested in **Artificial Intelligence**, **databases**, and **startups**  
+🚀 Documenting my learning journey and first projects here on GitHub  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack (learning & practicing)
+- **Languages:** Java, Python  
+- **Other interests:** AI, automation, data-driven apps  
+
+---
+
+### 🌱 Currently learning
+- Programming fundamentals (Java & Python)  
+- Basics of databases and backend development  
+- Exploring how AI can be applied in real-world projects 
